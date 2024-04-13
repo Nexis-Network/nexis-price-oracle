@@ -22,6 +22,9 @@ setPrice(uint256 price): Allows the owner of the contract to set the price of th
 getPrice(): Returns the current price of the Nexis Token.
 The contract is designed to be used with the Nexis Oracle Middleware, which calls the setPrice method with the result returned from the oracle.
 
+<img width="660" alt="Screenshot 2024-04-13 at 2 31 48 PM" src="https://github.com/0xdetonation/nexis-price-oracle/assets/166897641/76c7a912-d4da-42ae-aae6-2937722b2588">
+
+
 ## What is an Oracle Price Feed?
 An oracle price feed is a mechanism used in decentralized finance (DeFi) to provide external price information to smart contracts. It is essential for protocols that require accurate and up-to-date price data, such as decentralized exchanges (DEXs) and lending platforms.
 
