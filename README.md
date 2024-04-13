@@ -19,7 +19,7 @@ setPrice(uint256 price): Allows the owner of the contract to set the price of th
 getPrice(): Returns the current price of the Nexis Token.
 The contract is designed to be used with the Nexis Oracle Middleware, which calls the setPrice method with the result returned from the oracle.
 
-<img width="660" alt="Screenshot 2024-04-13 at 2 31 48 PM" src="https://github.com/0xdetonation/nexis-price-oracle/assets/166897641/76c7a912-d4da-42ae-aae6-2937722b2588">
+<img width="700" alt="Screenshot 2024-04-13 at 2 31 48 PM" src="https://github.com/0xdetonation/nexis-price-oracle/assets/166897641/76c7a912-d4da-42ae-aae6-2937722b2588">
 
 ## Running and Deployment
 
